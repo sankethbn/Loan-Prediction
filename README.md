@@ -14,7 +14,7 @@ Data Id 📋:
 ![](https://miro.medium.com/max/795/1*cAd_tqzgCWtCVMjEasWmpQ.png)
 
 
-Dataset- https://github.com/shaileshsharma23/Loan-Prediction/tree/main/Dataset
+Dataset- https://github.com/sankethbn/Loan-Prediction/blob/main/loan%20dataset.csv
 
 
 # The main objective for this dataset:
